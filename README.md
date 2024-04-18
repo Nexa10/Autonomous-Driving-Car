@@ -40,10 +40,14 @@ Our project demonstrates the potential of autonomous technologies in small-scale
 ## Appendices
 
 - **Demo Videos and Images**: Visuals of the car in operation, demonstrating its ability to navigate and respond to environmental cues.
+- <img width="468" alt="image" src="https://github.com/Nexa10/Autonomous-Driving-Car/assets/90815170/c0c37f8d-2a6a-405f-992f-5f64e3613715">
+- <img width="468" alt="image" src="https://github.com/Nexa10/Autonomous-Driving-Car/assets/90815170/4df70782-c46c-4bd0-8cb3-05916d5c729f">
+
+
 
 ## Contributors
 
-- **Dennis Audu**: System assembly, motor control integration, testing.
-- **Yiyuan Dong**: CV algorithm development, ESP32 programming, system integration.
+- **Dennis Audu**
+- **Yiyuan Dong**
 
 For more details, see our full project documentation and codebase in this repository.
